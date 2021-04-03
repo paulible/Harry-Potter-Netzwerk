@@ -1,0 +1,14 @@
+from,to
+HP,LP
+HP,JP
+HP,AD
+HP,RW
+HP,HG
+HP,PD
+HP,SB
+HP,CD
+HP,SS
+HG,RW
+RW,HG
+HG,HP
+RW,HP
