@@ -1,0 +1,14 @@
+from,to,weight
+Paulina,Cornelia,3
+Cornelia,Paulina,3
+Paulina,Alissa,3
+Paulina,Ilenia,3
+Paulina,Luis,2
+Luis,Paulina,2
+Ilenia,Paulina,3
+Ilenia,Alissa,3
+Alissa,Ilenia,3
+Cornelia,Alissa,1
+Cornelia,Ilenia,1
+Alissa,Cornelia,1
+Ilenia,Cornelia,1
